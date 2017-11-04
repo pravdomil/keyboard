@@ -1,2 +1,2 @@
-# pravdomil-keyboard
+# Pravdomil keyboard
 https://keyboard.pravdomil.com
