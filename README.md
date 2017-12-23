@@ -1,9 +1,9 @@
 # Pravdomil keyboard
 Anglická klávesnice s diakritikou pro Mac.
  
-Diakritika se píše ⌥0‑9 nebo ⌥ + písmeno bez háčku.
+Diakritika se píše <kbd>⌥0‑9</kbd> nebo <kbd>⌥ + písmeno bez háčku</kbd>.
 
-Například `⌥S -> Š` `⌥A -> Á` `⌥1 -> Ě`.
+Například <kbd>⌥S</kbd>` -> Š` <kbd>⌥A</kbd>` -> Á` <kbd>⌥1</kbd>` -> Ě`.
 
 ## Install
 ```bash
