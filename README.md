@@ -10,3 +10,7 @@ Například <kbd>⌥S</kbd>` -> Š` <kbd>⌥A</kbd>` -> Á` <kbd>⌥1</kbd>` -> 
 cd "/Library/Keyboard Layouts"
 sudo curl "https://raw.githubusercontent.com/pravdomil/keyboard/master/Pravdomil.keylayout" -O
 ```
+
+-----
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=Pravdomil%20keyboard%20beer">Donate</a>
