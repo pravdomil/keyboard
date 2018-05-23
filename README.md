@@ -3,6 +3,8 @@
 # Pravdomil keyboard
 Anglická klávesnice s diakritikou pro Mac.
 
+ 
+
 </div>
 
 Diakritika se píše <kbd>⌥0‑9</kbd> nebo <kbd>⌥ + písmeno bez háčku</kbd>.
