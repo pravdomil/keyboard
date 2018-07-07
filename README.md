@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pravdomil keyboard
+# Pravdomil Keyboard
 Anglická klávesnice s diakritikou pro Mac.
 
  
